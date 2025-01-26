@@ -17,7 +17,7 @@ The key objectives of this project are outlined below:
 - **Recommendation System**: Develop a recommendation system that suggests top-selling products to customers who have not yet purchased them within each customer segment.
 
 
-### Variable Description
+### Dataset Description
 
 - **InvoiceNo**: Unique identifier for each transaction. Codes beginning with 'c' signify a canceled transaction.
 - **StockCode**: Unique code for each product.
@@ -36,14 +36,10 @@ The key objectives of this project are outlined below:
 ## How to Run the Project Locally
 To get started with this project locally, follow these steps:
 
-### Clone the Repository
-Download the repository to your local machine using the `git clone` command.
+1. **Clone the Repository**: Download the repository to your local machine using the `git clone` command.
 
-### Open the Notebook
-Launch the `Customer_Segmentation_Using_K-Means_Clustering.ipynb` notebook using Jupyter Notebook.
+2. **Open the Notebook**: Launch the `Customer_Segmentation_Using_K-Means_Clustering.ipynb` notebook using Jupyter Notebook.
 
-### Install Dependencies
-Make sure all required Python libraries are installed to ensure smooth execution of the notebook.
+3.**Install Dependencies**: Make sure all required Python libraries are installed to ensure smooth execution of the notebook.
 
-### Run the Notebook
-Execute all the cells in the notebook to generate results and insights from the analysis.
+4.**Run the Notebook**: Execute all the cells in the notebook to generate results and insights from the analysis.
