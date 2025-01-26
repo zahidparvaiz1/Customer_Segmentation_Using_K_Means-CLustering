@@ -40,6 +40,6 @@ To get started with this project locally, follow these steps:
 
 2. **Open the Notebook**: Launch the `Customer_Segmentation_Using_K-Means_Clustering.ipynb` notebook using Jupyter Notebook.
 
-3.**Install Dependencies**: Make sure all required Python libraries are installed to ensure smooth execution of the notebook.
+3. **Install Dependencies**: Make sure all required Python libraries are installed to ensure smooth execution of the notebook.
 
-4.**Run the Notebook**: Execute all the cells in the notebook to generate results and insights from the analysis.
+4. **Run the Notebook**: Execute all the cells in the notebook to generate results and insights from the analysis.
