@@ -1,1 +1,1 @@
-# Customer_Segmentation_Using_K_Means-CLustering
+# Customer_Segmentation_Using_K-Means_CLustering
