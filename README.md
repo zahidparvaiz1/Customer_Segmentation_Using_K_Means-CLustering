@@ -9,23 +9,13 @@ The goal of this project is to transform raw transaction data into a customer-fo
 ## Project Objectives
 The key objectives of this project are outlined below:
 
-### Data Cleaning & Preprocessing
-Clean the data by addressing missing values, handling duplicates, and removing outliers to ensure smooth clustering processes.
+- **Data Cleaning & Preprocessing**: Clean the data by addressing missing values, handling duplicates, and removing outliers to ensure smooth clustering processes.
+- **Feature Engineering**: Create new, relevant features from the existing data to shift the focus from transactional details to a customer-centric dataset for segmentation.
+- **Preprocessing & Scaling**: Apply scaling and dimensionality reduction techniques to optimize the data for clustering algorithms.
+- **Customer Segmentation**: Use the K-means clustering algorithm to group customers based on their shopping patterns, supporting personalized marketing efforts.
+- **Cluster Profiling & Evaluation**: Analyze the characteristics of each customer segment, and assess the effectiveness of the clusters for marketing initiatives.
+- **Recommendation System**: Develop a recommendation system that suggests top-selling products to customers who have not yet purchased them within each customer segment.
 
-### Feature Engineering
-Create new, relevant features from the existing data to shift the focus from transactional details to a customer-centric dataset for segmentation.
-
-### Preprocessing & Scaling
-Apply scaling and dimensionality reduction techniques to optimize the data for clustering algorithms.
-
-### Customer Segmentation
-Use the K-means clustering algorithm to group customers based on their shopping patterns, supporting personalized marketing efforts.
-
-### Cluster Profiling & Evaluation
-Analyze the characteristics of each customer segment, and assess the effectiveness of the clusters for marketing initiatives.
-
-## Dataset Information
-The dataset consists of various fields related to online retail transactions. Below is a summary of key features:
 
 ### Variable Description
 
