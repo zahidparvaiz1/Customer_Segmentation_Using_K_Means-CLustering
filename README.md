@@ -14,7 +14,6 @@ The key objectives of this project are outlined below:
 - **Preprocessing & Scaling**: Apply scaling and dimensionality reduction techniques to optimize the data for clustering algorithms.
 - **Customer Segmentation**: Use the K-means clustering algorithm to group customers based on their shopping patterns, supporting personalized marketing efforts.
 - **Cluster Profiling & Evaluation**: Analyze the characteristics of each customer segment, and assess the effectiveness of the clusters for marketing initiatives.
-- **Recommendation System**: Develop a recommendation system that suggests top-selling products to customers who have not yet purchased them within each customer segment.
 
 
 ### Dataset Description
